@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/scripts":{"guestpath":"/srv/scripts","hostpath":"/Users/mbrownlee/php/advent/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mbrownlee/php/advent","disabled":false,"__vagrantfile":true}}}
